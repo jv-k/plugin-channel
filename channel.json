@@ -90,6 +90,6 @@
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-cheat.json",
 
   // typescript_syntax plugin
-  "https://raw.githubusercontent.com/jv-k/micro-typescript-syntax/master/repo.json"
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/typescript_syntax.json"
 
 ]
